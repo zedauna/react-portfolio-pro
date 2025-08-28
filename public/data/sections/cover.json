@@ -67,10 +67,10 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "text": "<p>I’m a {{PHP}} developer with [[over a decade]] of experience, specializing in backend development with some frontend work as well. I also have hands-on experience with C++, C#, Go, and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs, whether it's building scalable APIs, optimizing system performance, or contributing to full-stack solutions.</p><p>I look forward to collaborating [[with you!]]</p>"
+                            "text": "<p>I’m a {{WEB SIG}} developer with [[over a decade]] of experience, specializing in backend development with some frontend work as well. I also have hands-on experience with JavaScript, Go, PHP and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs, whether it's building scalable APIs, optimizing system performance, or contributing to full-stack solutions.</p><p>I look forward to collaborating [[with you!]]</p>"
                         },
                         "fr": {
-                            "text": "<p>Je suis développeur {{PHP}} avec [[plus d'une décennie]] d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets, qu'il s'agisse de créer des API évolutives, d'améliorer les performances système ou de participer à des solutions full-stack.</p><p>Je suis impatient de collaborer [[avec vous !]]</p>"
+                            "text": "<p>Je suis développeur {{SIG WEB}} avec [[plus d'une décennie]] d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies JavaScript, Go, PHP et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets, qu'il s'agisse de créer des API évolutives, d'améliorer les performances système ou de participer à des solutions full-stack.</p><p>Je suis impatient de collaborer [[avec vous !]]</p>"
                         }
                     }
                 }
