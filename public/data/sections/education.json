@@ -15,7 +15,6 @@
             }
         }
     },
-
     "articles": [
         {
             "id": 1,
@@ -30,26 +29,36 @@
                     "id": 1,
                     "img": "images/pictures/timeline-place-udacity.png",
                     "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2014, "month": 1},
-                    "dateEnd": {"year": 2014, "month": 6},
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2010,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "year": 2013,
+                        "month": 24
+                    },
                     "locales": {
                         "en": {
-                            "title": "PHP Development {{Nanodegree}}",
+                            "title": "{{Licence Pro}} in Agronomic Sciences: Rural Engineering & Agricultural Mechanization",
                             "province": "",
-                            "country": "Remote",
-                            "institution": "Udacity",
-                            "text": "Successfully completed an intensive Nanodegree program with a strong emphasis on [[PHP development]], where I gained comprehensive, hands-on experience in building dynamic and scalable web applications.",
+                            "country": "BENIN",
+                            "institution": "FSA",
+                            "text": "I successfully completed this training, during which I gained extensive hands-on experience in Exploratory Data Analysis: PCA, MCA, MFA, GIS.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Arcgis", "R/Rstudio" , "Epanet" , "Autocad" , "Visual Basic" , "Gimp"]
                         },
                         "fr": {
-                            "title": "Développement PHP {{Nanodegree}}",
+                            "title": "{{Licence Pro}} en Sciences Agronomiques spécialité Génie rural et mécanisation agricole",
                             "province": "",
-                            "country": "À distance",
-                            "institution": "Udacity",
-                            "text": "J'ai terminé avec succès un programme Nanodegree intensif axé sur [[PHP development]], au cours duquel j'ai acquis une expérience pratique approfondie dans la création d'applications web dynamiques et évolutives.",
-                            "list": []
+                            "country": "BENIN",
+                            "institution": "FSA",
+                            "text": "J'ai terminé avec succès cette formation, au cours duquel j'ai acquis une expérience pratique approfondie dans l' Analyse exploratoire des données : ACP, AFC, AFCM, SIG.",
+							"list": [],
+                            "tags": ["Arcgis", "R/Rstudio" , "Epanet" , "Autocad" , "Visual Basic" , "Gimp"]
                         }
                     }
                 },
@@ -57,27 +66,36 @@
                     "id": 2,
                     "img": "images/pictures/timeline-place-mit.png",
                     "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2016, "month": 1},
-                    "dateEnd": {"year": 2020, "month": 12},
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2020,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "year": 2021,
+                        "month": 12
+                    },
                     "locales": {
                         "en": {
-                            "title": "{{Bachelor}} in Computer Science",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "MIT",
-                            "text": "Earned a [[Bachelor's degree in Computer Science]], focusing on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects, coding boot camps, and many collaborative team-based software development activities.",
+                            "title": "{{Licence Pro}} in informatique : Web-based Geographic Information System (Web GIS)",
+                            "province": "",
+                            "country": "FRANCE",
+                            "institution": "University of Perpignan",
+                            "text": "I earned a [[Bachelor’s degree in Computer Science]], with a focus on algorithms, data structures, cartographic analysis, and web development. I gained solid hands-on experience through various programming projects, coding bootcamps, and collaborative team activities..",
                             "list": [],
-                            "tags": []
+                            "tags": ["Arcgis", "Arcgis Pro" , "Qgis" , "MapInfo" , "Arcpy" , "Python" , "FME" , "R/Rstudio" , "SAS" , "Python" , "PostgreSQL" , "Looping"]
                         },
                         "fr": {
-                            "title": "{{Licence}} en informatique",
-                            "province": "Massachusetts",
-                            "country": "États-Unis",
-                            "institution": "MIT",
-                            "text": "J'ai obtenu une [[licence en informatique]], avec un accent sur les algorithmes, les structures de données, l’ingénierie logicielle et le développement web. J'ai acquis une solide expérience pratique grâce à divers projets de programmation, des bootcamps de code et des activités collaboratives en équipe.",
+                            "title": "{{Licence Pro}} en l’informatique : Système d'information géographique orienté WEB (SIGWEB)",
+                            "province": "",
+                            "country": "FRANCE",
+                            "institution": "IUT de Carcassonne de l’Université de Perpignan",
+                            "text": "J'ai obtenu une [[licence en informatique]], avec un accent sur les algorithmes, les structures de données, l’analyse cartographiques et le développement web. J'ai acquis une solide expérience pratique grâce à divers projets de programmation, des bootcamps de code et des activités collaboratives en équipe.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Arcgis", "Arcgis Pro" , "Qgis" , "MapInfo" , "Arcpy" , "Python" , "FME" , "R/Rstudio" , "SAS" , "Python" , "PostgreSQL" , "Looping"]
                         }
                     }
                 },
@@ -85,41 +103,44 @@
                     "id": 3,
                     "img": "images/pictures/timeline-place-university-paris.png",
                     "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2020, "month": 9},
-                    "dateEnd": {"year": 2022, "month": 6},
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2016,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "year": 2018,
+                        "month": 12
+                    },
                     "locales": {
                         "en": {
-                            "title": "{{Master's}} in Artificial Intelligence",
+                            "title": "{{Master's}} in Water and Environmental Sciences (MSEE)",
                             "province": "",
                             "country": "France",
-                            "institution": "University of Paris",
-                            "text": "Completed a comprehensive Master's program focused on [[cutting-edge AI topics]], including:",
+                            "institution": "University of Corse",
+                            "text": "Completed a comprehensive Master's program focused on [[cutting-edge topics]], including:",
                             "list": [
                                 "Machine Learning",
-                                "Natural Language Processing (NLP)",
-                                "Neural Networks"
+                                "Exploratory Data Analysis: PCA, MCA, MFA",
+                                "Study and implementation of territorial diagnostics"
                             ],
-                            "tags": [
-                                "Neural Networks",
-                                "Machine Learning"
-                            ]
+                            "tags": ["Arcgis", "R/Rstudio" , "Epanet" , "Autocad", "Géoportail"]
                         },
                         "fr": {
-                            "title": "{{Master}} en Intelligence Artificielle",
+                            "title": "{{Master}} en Sciences Eau et Environnement (MSEE)",
                             "province": "",
                             "country": "France",
-                            "institution": "Université de Paris",
-                            "text": "J'ai terminé un programme de master complet axé sur [[les sujets avancés en IA]], notamment :",
+                            "institution": "Université de Corse",
+                            "text": "J'ai terminé un programme de master complet axé sur [[les sujets avancés]], notamment :",
                             "list": [
-                                "Apprentissage automatique",
-                                "Traitement du langage naturel (NLP)",
-                                "Réseaux de neurones"
+                                "Analyse exploratoire : ACP, AFC, AFCM",
+                                "Études et réalisation de diagnostics territoriaux",
+								"Machine Learning"
                             ],
-                            "tags": [
-                                "Réseaux de neurones",
-                                "Apprentissage automatique"
-                            ]
+                            "tags": ["Arcgis", "R/Rstudio" , "Epanet" , "Autocad", "Géoportail"]
                         }
                     }
                 },
@@ -127,37 +148,32 @@
                     "id": 4,
                     "img": "images/pictures/timeline-place-harvard.png",
                     "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2022, "month": 9},
-                    "dateEnd": {"year": 2025, "month": 6},
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2022,
+                        "month": 9
+                    },
+                    "dateEnd": {
+                        "year": 2025,
+                        "month": 6
+                    },
                     "locales": {
                         "en": {
-                            "title": "{{PhD}} in Computer Science",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "Harvard University",
-                            "text": "Currently pursuing a PhD with a focus on [[deep learning]] and its real-world applications, particularly in:",
-                            "list": [
-                                "Computer Vision",
-                                "Innovative AI research",
-                                "Developing [[novel algorithms]] for image recognition"
-                            ],
-                            "tags": [
-                                "Deep Learning", "Computer Vision", "AI Research", "Algorithms"
-                            ]
+                            "title": "{{Self-taught}} > Front End Engineer Career Path",
+							"institution": "CodeCademy",
+                            "text": "Initially started this to keep up with agency work demands, but ended up absolutely loving it! The visual and interactive aspects were brilliant - spent hours perfecting UI components and animations. With tight deadlines at work, I had to learn fast and practise loads. Managed to complete it alongside the Full Stack path, which was intense but so rewarding!",
+							"list": [],
+							"tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
                         },
                         "fr": {
-                            "title": "{{Doctorat}} en informatique",
-                            "province": "Massachusetts",
-                            "country": "États-Unis",
-                            "institution": "Université Harvard",
-                            "text": "Actuellement en doctorat, avec une spécialisation en [[deep learning]] et ses applications concrètes, notamment dans :",
-                            "list": [
-                                "La vision par ordinateur",
-                                "La recherche innovante en IA",
-                                "Le développement de [[nouveaux algorithmes]] pour la reconnaissance d’images"
-                            ],
-                            "tags": ["Apprentissage profond", "Vision par ordinateur", "Recherche en IA", "Algorithmes"]
+                            "title": "{{Autodidacte}} > Parcours de Carrière d'Ingénieur Front End",
+							"institution": "CodeCademy",
+                            "text": "J'ai terminé le Parcours de Carrière d'Ingénieur Front End, spécialisé dans les technologies de développement front-end.",
+							"list": [],
+                            "tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
                         }
                     }
                 }
