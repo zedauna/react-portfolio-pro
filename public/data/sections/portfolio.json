@@ -42,90 +42,72 @@
             "items": [
                 {
                     "id": 1,
-                    "categoryId": "category_utilities",
-                    "img": "images/pictures/portfolio-project-logo-3.png",
-                    "faIcon": "",
+                    "categoryId": "category_web",
+                    "img": "",
+                    "faIcon": "fa-solid fa-map",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
-                            {"href": "https://npm.com", "tooltipString": "see_on_npm", "faIcon": "fa-brands fa-npm"}
+                            {"href": "https://zedauna.github.io/jerosweb.com/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
+							{"href": "https://github.com/zedauna/jerosweb.com", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
                         ],
-                        "screenshots": [
-                            "images/pictures/screenshot-demo-landscape-1.png",
-                            "images/pictures/screenshot-demo-landscape-2.png",
-                            "images/pictures/screenshot-demo-landscape-3.png",
-                            "images/pictures/screenshot-demo-landscape-4.png",
-                            "images/pictures/screenshot-demo-landscape-5.png"
-                        ],
-                        "screenshotsAspectRatio": "16:9",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=PnV8p1xm7-o"
+                        "screenshots": [],
+                        "screenshotsAspectRatio": null,
+                        "youtubeVideo": null
                     },
                     "locales": {
                         "en": {
-                            "title": "BrainPulse",
+                            "title": "SIG WEBMAP",
                             "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
                             "tags": ["API", "REST", "Backend"]
                         },
                         "fr": {
-                            "text": "Un backend <b>API RESTful</b> construit avec <b>Node.js</b>, conçu pour le traitement de données haute performance et la gestion d'événements en temps réel.",
-                            "tags": ["API", "REST", "Backend"]
+                            "text": "Développement des applications WebSIG.",
+                            "tags": ["SVG", "Leaflet", "PHP"]
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "categoryId": "category_apps",
-                    "img": "images/pictures/portfolio-project-logo-7.png",
-                    "faIcon": "",
+                    "categoryId": "category_web",
+                    "img": "",
+                    "faIcon": "fa-solid fa-guitar",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
+                            {"href": "https://zedauna.github.io/wordcloud_simple/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
+							{"href": "https://github.com/zedauna/wordcloud_simple", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
                         ],
-                        "screenshots": [
-                            "images/pictures/screenshot-demo-portrait-1.png",
-                            "images/pictures/screenshot-demo-portrait-2.png",
-                            "images/pictures/screenshot-demo-portrait-3.png",
-                            "images/pictures/screenshot-demo-portrait-4.png",
-                            "images/pictures/screenshot-demo-portrait-5.png",
-                            "images/pictures/screenshot-demo-portrait-6.png"
-                        ],
-                        "screenshotsAspectRatio": "9:16",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI"
+                        "screenshots": [],
+                        "screenshotsAspectRatio": null,
+                        "youtubeVideo": null
                     },
                     "locales": {
                         "en": {
-                            "title": "MailM8",
+                            "title": "wordcloud",
                             "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
                             "tags": ["Flutter", "E-mail", "Communication"]
                         },
                         "fr": {
-                            "text": "Un client de messagerie multiplateforme construit avec <b>Flutter</b>, offrant une communication efficace et une interface intuitive pour <b>gérer les e-mails</b>.",
-                            "tags": ["Flutter", "E-mail", "Communication"]
+							"title": "wordcloud",
+                            "text": "Réalisation des nuages de mots.",
+                            "tags": ["google", "javascript", "Communication"]
                         }
                     }
                 },
                 {
                     "id": 3,
-                    "categoryId": "category_apps",
-                    "img": "images/pictures/portfolio-project-logo-6.png",
-                    "faIcon": "",
+                    "categoryId": "category_web",
+                    "img": "",
+                    "faIcon": "fa-solid fa-cubes",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
+                            {"href": "https://github.com/zedauna/globe_complexe", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
+							{"href": "https://github.com/zedauna/globe_complexe", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
                         ],
-                        "screenshots": [
-                            "images/pictures/screenshot-demo-landscape-1.png",
-                            "images/pictures/screenshot-demo-landscape-2.png",
-                            "images/pictures/screenshot-demo-landscape-3.png",
-                            "images/pictures/screenshot-demo-landscape-4.png",
-                            "images/pictures/screenshot-demo-landscape-5.png"
-                        ],
-                        "screenshotsAspectRatio": "16:9",
+                        "screenshots": [],
+                        "screenshotsAspectRatio": null,
                         "youtubeVideo": ""
                     },
                     "locales": {
@@ -135,26 +117,28 @@
                             "tags": ["React", "Organization", "Notes"]
                         },
                         "fr": {
-                            "text": "Une application de productivité complète développée avec <b>React Native</b>, permettant aux utilisateurs d'organiser tâches, notes et projets sur plusieurs appareils. Elle offre <b>synchronisation cloud</b>, interface intuitive et fonctionnalités de collaboration.",
-                            "tags": ["React", "Organisation", "Notes"]
+							"title": "Globe 3D",
+                            "text": "Animation avec Three.js.",
+                            "tags": ["3D", "Three.js ", "Globe"]
                         }
                     }
                 },
                 {
                     "id": 4,
-                    "categoryId": "category_web",
-                    "img": "images/pictures/portfolio-project-logo-1.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
+                    "categoryId": "category_apps",
+                    "img": "",
+                    "faIcon": "fa-brands fa-react",
+                    "faIconColors": {"bg": "#01CFF9", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://cash.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                            {"href": "https://alpha-spacex-news.netlify.app/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
+							{"href": "https://github.com/zedauna/react_typeScript_Learning", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
                         ],
                         "screenshots": [
 
                         ],
                         "screenshotsAspectRatio": "",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww"
+                        "youtubeVideo": null
                     },
                     "locales": {
                         "en": {
@@ -163,22 +147,21 @@
                             "tags": ["Next.js", "Finance", "Money"]
                         },
                         "fr": {
-                            "title": "SmartCash",
-                            "text": "Un site web financier construit avec <b>Next.js</b>, permettant aux utilisateurs de <b>suivre les budgets</b> et de gérer leur argent avec des graphiques interactifs et des analyses.",
-                            "tags": ["Next.js", "Finance", "Argent"]
+                            "title": "AlphaSpacex",
+                            "text": "Application web de consultation des données spatiales en provenance de plusieurs API publiques.",
+                            "tags": ["React.js", "données spatiales", "Spaceflight News API","Datastro NASA Hubble dataset","SpaceX API v3"]
                         }
                     }
                 },
                 {
                     "id": 5,
                     "categoryId": "category_apps",
-                    "img": "images/pictures/portfolio-project-logo-2.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
+                    "img": "",
+                    "faIcon": "fa-brands fa-angular",
+                    "faIconColors": {"bg": "#BA002E", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
+							{"href": "https://github.com/zedauna/Admin-dashboard-Angular-Material", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
                         ],
                         "screenshots": [
 
@@ -193,21 +176,21 @@
                             "tags": ["Swift", "Photography", "Camera"]
                         },
                         "fr": {
-                            "title": "Snappy",
-                            "text": "Une application de photographie puissante conçue avec <b>Swift</b> pour iOS et Android, avec des <b>contrôles avancés de la caméra</b>, des outils d'édition et des filtres IA pour des améliorations rapides des photos.",
-                            "tags": ["Swift", "Photographie", "Caméra"]
+                            "title": "Admin-Dashboard-Angular",
+                            "text": "Une application web construite avec Angular.",
+                            "tags": ["Angular Material", "DummyJSON API", "RxJS"]
                         }
                     }
                 },
                 {
                     "id": 6,
-                    "categoryId": "category_web",
-                    "img": "images/pictures/portfolio-project-logo-5.png",
-                    "faIcon": "",
+                    "categoryId": "category_utilities",
+                    "img": "",
+                    "faIcon": "fa-brands fa-studiovinari",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+							{"href": "https://github.com/zedauna/managerDirectoryWithGo", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
                         ],
                         "screenshots": [
 
@@ -222,9 +205,9 @@
                             "tags": ["WooCommerce", "Food", "Desserts"]
                         },
                         "fr": {
-                            "title": "Sweet Scoops",
-                            "text": "Un site de recettes construit avec <b>WordPress</b> et WooCommerce, présentant une riche collection de <b>recettes de desserts</b> et une plateforme de commerce électronique intégrée.",
-                            "tags": ["WooCommerce", "Cuisine", "Desserts"]
+                            "title": "Tools Directory",
+                            "text": "Collection d'outils de gestions des dossiers et fichiers avec Go.",
+                            "tags": ["Golang", "Go"]
                         }
                     }
                 },
@@ -232,11 +215,12 @@
                     "id": 7,
                     "categoryId": "category_web",
                     "img": "",
-                    "faIcon": "fa-solid fa-guitar",
+                    "faIcon": "fa-brands fa-readme",
                     "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                            {"href": "https://github.com/zedauna/portfolio/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
+							{"href": "https://github.com/zedauna/portfolio", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
                         ],
                         "screenshots": [
 
@@ -251,52 +235,21 @@
                             "tags": ["Django", "Music", "Rock"]
                         },
                         "fr": {
-                            "title": "RockVerse",
-                            "text": "Un site web de musique et de divertissement dynamique développé avec <b>Django</b>, mettant en avant des nouvelles, événements et <b>contenu en streaming</b> sur le rock.",
-                            "tags": ["Django", "Musique", "Rock"]
+                            "title": "Portfolio",
+                            "text": " Mon portFolio en version basique.",
+                            "tags": ["Formation", "Parcours", "Projets"]
                         }
                     }
                 },
-                {
+				                {
                     "id": 8,
                     "categoryId": "category_utilities",
-                    "img": "images/pictures/portfolio-project-logo-4.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "preview": {
-                        "links": [
-
-                        ],
-                        "screenshots": [
-
-                        ],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=bf3Lz33nHy0"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Soccer Analytics",
-                            "text": "An AI-powered sports analytics platform built with <b>Python</b> and <b>TensorFlow</b>, offering detailed soccer <b>predictions</b> and team management tools.",
-                            "tags": ["AI", "Prediction", "Soccer"]
-                        },
-                        "fr": {
-                            "title": "Soccer Analytics",
-                            "text": "Une plateforme d'analytique sportive alimentée par IA construite avec <b>Python</b> et <b>TensorFlow</b>, offrant des <b>prédictions</b> détaillées pour le football et des outils de gestion d'équipe.",
-                            "tags": ["IA", "Prédiction", "Football"]
-                        }
-                    }
-                },
-                {
-                    "id": 9,
-                    "categoryId": "category_apps",
                     "img": "",
-                    "faIcon": "fa-solid fa-truck-fast",
-                    "faIconColors": {"bg": "#007396", "fill": "#EEEEEE"},
+                    "faIcon": "fa-solid fa-database",
+                    "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"},
-                            {"href": "https://windows.com", "tooltipString": "see_on_windows_store", "faIcon": "fa-brands fa-windows"}
+							{"href": "https://github.com/zedauna/Sql_PlpGsql", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
                         ],
                         "screenshots": [
 
@@ -306,14 +259,70 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "QuickDrop",
-                            "text": "A cross-platform delivery app built with <b>React Native</b> and a <b>Node.js backend</b>, featuring <b>real-time tracking</b> and seamless integration with multiple platforms.",
-                            "tags": ["React Native", "Delivery", "Real-Time Tracking"]
+                            "title": "RockVerse",
+                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
+                            "tags": ["Django", "Music", "Rock"]
                         },
                         "fr": {
-                            "title": "QuickDrop",
-                            "text": "Une application de livraison multiplateforme construite avec <b>React Native</b> et un backend <b>Node.js</b>, avec <b>suivi en temps réel</b> et intégration fluide sur plusieurs plateformes.",
-                            "tags": ["React Native", "Livraison", "Suivi"]
+                            "title": "Sql_PlpGsql",
+                            "text": "Collection de méthodes en PLpgSQL pour le traitement de la donnée.",
+                            "tags": ["Donnée", "Procédure", "Projets"]
+                        }
+                    }
+                },                {
+                    "id": 9,
+                    "categoryId": "category_utilities",
+                    "img": "",
+                    "faIcon": "fa-brands fa-python",
+                    "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+							{"href": "https://github.com/zedauna/NLP-cleaning-Preprocess-Text_To_Speech-word-clouds", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [
+
+                        ],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "RockVerse",
+                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
+                            "tags": ["Django", "Music", "Rock"]
+                        },
+                        "fr": {
+                            "title": "NLP Cleaning",
+                            "text": "Nettoyage des données textuelles et Création des audios.",
+                            "tags": ["NLP", "WORD CLOUD", "Projets"]
+                        }
+                    }
+                },                {
+                    "id": 10,
+                    "categoryId": "category_utilities",
+                    "img": "",
+                    "faIcon": "fa fa-map-marker",
+                    "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+							{"href": "https://github.com/zedauna/Marker-Icon-for-leaflet", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [
+
+                        ],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "RockVerse",
+                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
+                            "tags": ["Django", "Music", "Rock"]
+                        },
+                        "fr": {
+                            "title": "Marker-Icon-for-leaflet",
+                            "text": "Production Marker Icon for leaflet in SVG with PHP by simply changing the colors.",
+                            "tags": ["WEBMAPPING", "MARKER", "Projets"]
                         }
                     }
                 }

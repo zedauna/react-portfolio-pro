@@ -5,13 +5,13 @@
                 "title_short": "Welcome!",
                 "title_short_nav": "About me",
                 "title_long_prefix": "Hello...",
-                "title_long": "I'm {{Jéros VIGAN!}}"
+                "title_long": "I'm {{Jéros V.}}"
             },
             "fr": {
                 "title_short": "Salut !",
                 "title_short_nav": "À propos",
                 "title_long_prefix": "Salut...",
-                "title_long": "Je suis {{Jéros VIGAN !}}"
+                "title_long": "Je suis {{Jéros V.}}"
             }
         }
     },
@@ -36,7 +36,7 @@
                 {
                     "id": 2,
                     "label": "jeros@jerosweb.com",
-                    "link": {"href": "mailto:jeros@jerosweb.com", "tooltipString": "email_me"},
+                    "link": {"href": "mailto:jerosvigan@gmail.com", "tooltipString": "email_me"},
                     "faIcon": "fa-regular fa-envelope"
                 },
                 {
@@ -44,6 +44,12 @@
                     "label": "@zedauna",
                     "link": {"href": "https://github.com/zedauna", "tooltipString": "see_on_github"},
                     "faIcon": "fa-brands fa-github"
+                },
+				{
+                    "id": 4,
+                    "label": "@Professionel",
+                    "link": {"href": "https://www.linkedin.com/in/j%C3%A9ros-vigan-164a5b160/", "tooltipString": "see_on_linkedin"},
+                    "faIcon": "fa-brands fa-linkedin"
                 }
             ]
         },
@@ -100,30 +106,13 @@
                             "text": "Learning to use AI tools to enhance my videos."
                         },
                         "fr": {
-                            "title": "Édition vidéo avec {{IA}}",
-                            "text": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
+                            "title": "Cinéma et {{Manga}}",
+                            "text": "Régarder les films surtout les Marvels."
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "faIcon": "fa-solid fa-palette",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "label": null,
-                    "link": {"href": null, "tooltipString": null},
-                    "locales": {
-                        "en": {
-                            "title": "{{Arts}} & Illustration",
-                            "text": "Practicing digital art and exploring new styles."
-                        },
-                        "fr": {
-                            "title": "{{Arts}} & Illustration",
-                            "text": "Pratiquer l'art numérique et explorer de nouveaux styles."
-                        }
-                    }
-                },
-                {
-                    "id": 3,
                     "faIcon": "fa-solid fa-chart-line",
                     "faIconColors": {"bg": "", "fill": ""},
                     "label": null,
@@ -140,7 +129,7 @@
                     }
                 },
                 {
-                    "id": 4,
+                    "id": 3,
                     "faIcon": "fa-solid fa-window-restore",
                     "faIconColors": {"bg": "", "fill": ""},
                     "label": null,
@@ -157,9 +146,9 @@
                     }
                 },
                 {
-                    "id": 5,
+                    "id": 4,
                     "img": "",
-                    "faIcon": "fa-solid fa-camera-retro",
+                    "faIcon": "fa-solid fa-utensils",
                     "faIconColors": {"bg": "", "fill": ""},
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
@@ -169,13 +158,13 @@
                             "text": "Enhancing photos through creative editing techniques."
                         },
                         "fr": {
-                            "title": "{{Photographie}} & Photoshop",
-                            "text": "Améliorer des photos avec des techniques de montage créatives."
+                            "title": "{{Cuisine}}",
+                            "text": "Améliorer et découvrir de nouvelles recettes."
                         }
                     }
                 },
                 {
-                    "id": 6,
+                    "id": 5,
                     "faIcon": "fa-solid fa-drum-steelpan",
                     "faIconColors": {"bg": "", "fill": ""},
                     "label": null,
@@ -186,8 +175,8 @@
                             "text": "Exploring different genres and improving my skills."
                         },
                         "fr": {
-                            "title": "Jouer de la {{batterie}}",
-                            "text": "Explorer différents genres et améliorer mes compétences."
+                            "title": "Faire du sport et {{danser}}",
+                            "text": "Explorer la nature tout en faisant le sport."
                         }
                     }
                 }

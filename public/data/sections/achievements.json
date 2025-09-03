@@ -35,10 +35,10 @@
                     "faIcon": "fa-solid fa-life-ring",
                     "faIconColors": {"bg": "#326CE5", "fill": "#EEE"},
                     "date": {"year": 2019, "month": 12},
-                    "link": {"href": "https://www.linuxfoundation.org/", "tooltipString": "see_certification"},
+                    "link": {"href": "https://cyber.gouv.fr/decouvrir-lanssi", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
-                            "title": "The {{Linux Foundation}}",
+                            "title": "{{ANSSI}}",
                             "text": "Certified Kubernetes Administrator (CKA)"
                         },
                         "fr": {
@@ -50,17 +50,33 @@
                 {
                     "id": 2,
                     "img": "",
-                    "faIcon": "fa-brands fa-aws",
-                    "faIconColors": {"bg": "#FFD700", "fill": "#111"},
+                    "faIcon": "fa-brands fa-microsoft",
+                    "faIconColors": {"bg": "#00A4EF", "fill": "#F25022"},
                     "date": {"year": 2019, "month": 5},
                     "link": {"href": "", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
-                            "title": "{{Amazon}} Web Services",
+                            "title": "{{Microsoft}} Web Services",
                             "text": "AWS Certified Solutions Architect – Associate"
                         },
                         "fr": {
                             "text": "Certificat informatique et Internet (C2i) dans la maitrise des TIC"
+                        }
+                    }
+                },                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fas fa-tools",
+                    "faIconColors": {"bg": "#FFD700", "fill": "#111"},
+                    "date": {"year": 2024, "month": 1},
+                    "link": {"href": "", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{FME FORM}} Niveau Avancé",
+                            "text": "AWS Certified Solutions Architect – Associate"
+                        },
+                        "fr": {
+                            "text": "Certificat de réalisation dont la maîtrise des fonctionnalités avancées de FME FORM"
                         }
                     }
                 }
@@ -85,7 +101,7 @@
                     "date": {"year": 2019, "month": 9},
                     "preview": {
                         "links": [
-                            {"href": "https://mag.wcoomd.org/uploads/2018/05/blank.pdf", "tooltipString": "read", "faIcon": "fa-solid fa-file-pdf"}
+                            {"href": "https://www.facebook.com/IutStidCarcassonne/photos/a.1044526862398061/1434217843428959", "tooltipString": "read", "faIcon": "fa-brands fa-facebook"}
                         ],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
@@ -100,133 +116,15 @@
                             "text": "Awarded for outstanding performance in optimizing backend systems during my final year project where I improved the efficiency of data processing by 30%. I have also received a certificate of recognition for this achievement."
                         },
                         "fr": {
-                            "title": "{{Meilleur Projet de Fin d'Études}} – Optimisation Backend",
-                            "province": "Massachusetts",
-                            "country": "États-Unis",
-                            "institution": "MIT",
-                            "text": "Récompensé pour une performance exceptionnelle dans l'optimisation des systèmes backend lors de mon projet de fin d'études, où j'ai amélioré l'efficacité du traitement des données de 30%. J'ai également reçu un certificat de reconnaissance pour cette réalisation."
-                        }
-                    }
-                },
-
-                {
-                    "id": 2,
-                    "date": {"year": 2020, "month": 5},
-                    "preview": {
-                        "links": [
-                            {"href": "https://github.com/ryanbalieiro/react-portfolio-template", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
-                            {"href": "https://www.linuxfoundation.org/", "tooltipString": "open_website", "faIcon": "fa-brands fa-linux"}
-                        ],
-                        "screenshots": [],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": ""
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "{{Top Contributor}} – Open Source Linux Foundation Project",
-                            "province": "",
-                            "country": "",
-                            "institution": "Linux Foundation",
-                            "text": "Recognized as a top contributor for my significant contributions to an open source project under the Linux Foundation, where I implemented key features and resolved critical bugs, enhancing the project's stability and performance. My contributions involved: ",
-                            "list": [
-                                "Implementing a new feature that improved user experience by 25%",
-                                "Resolving over 50 critical bugs that enhanced system reliability",
-                                "Contributing to the documentation and community support"
-                            ]
-                        },
-                        "fr": {
-                            "title": "{{Contributeur Principal}} – Projet Open Source de la Fondation Linux",
-                            "province": "",
-                            "country": "",
-                            "institution": "Fondation Linux",
-                            "text": "Reconnu comme un contributeur principal pour mes contributions significatives à un projet open source sous la Fondation Linux, où j'ai implémenté des fonctionnalités clés et résolu des bugs critiques, améliorant la stabilité et les performances du projet. Mes contributions ont inclus : ",
-                            "list": [
-                                "Implémentation d'une nouvelle fonctionnalité qui a amélioré l'expérience utilisateur de 25%",
-                                "Résolution de plus de 50 bugs critiques qui ont amélioré la fiabilité du système",
-                                "Contribution à la documentation et au support communautaire"
-                            ]
-                        }
-                    }
-                },
-
-                {
-                    "id": 3,
-                    "date": {"year": 2022, "month": 11},
-                    "preview": {
-                        "links": [
-                            {"href": "https://medium.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-medium"},
-                            {"href": "https://www.ieee.org/", "tooltipString": "open_website", "faIcon": "fa-solid fa-award"},
-                            {"href": "https://www.acm.org/", "tooltipString": "open_website", "faIcon": "fa-solid fa-trophy"}
-                        ],
-                        "screenshots": [],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": ""
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "{{Best Paper}} – International Summit",
-                            "province": "Beijing",
-                            "country": "China",
-                            "institution": "IEEE",
-                            "text": "Awarded for my research paper on software optimization techniques, which was presented at the International Conference on Software Engineering. The paper received positive feedback from industry experts and was published in the conference proceedings."
-                        },
-                        "fr": {
-                            "title": "{{Meilleur Article}} – Sommet International",
-                            "province": "Pékin",
-                            "country": "Chine",
-                            "institution": "IEEE",
-                            "text": "Récompensé pour mon article de recherche sur les techniques d'optimisation logicielle, qui a été présenté à la Conférence Internationale sur l'Ingénierie Logicielle. L'article a reçu des commentaires positifs d'experts du secteur et a été publié dans les actes de la conférence."
-                        }
-                    }
-                },
-
-                {
-                    "id": 4,
-                    "date": {"year": 2024, "month": 6},
-                    "preview": {
-                        "links": [
-                            {"href": "https://medium.com",
-                            "tooltipString": "open_website",
-                            "faIcon": "fa-brands fa-medium"}
-                        ],
-                        "screenshots": [
-                            "images/pictures/screenshot-demo-square-1.jpg",
-                            "images/pictures/screenshot-demo-square-2.jpg",
-                            "images/pictures/screenshot-demo-square-3.jpg",
-                            "images/pictures/screenshot-demo-square-4.jpg",
-                            "images/pictures/screenshot-demo-square-5.jpg",
-                            "images/pictures/screenshot-demo-square-6.jpg"
-                        ],
-                        "screenshotsAspectRatio": "1:1",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=RGTfS-48Gf0"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "{{Best Innovator}} – Tech Innovation Summit",
-                            "province": "Rio de Janeiro",
-                            "country": "Brazil",
-                            "institution": "Tech Innovators Brazil",
-                            "text": "Recognized as the [[best innovator]] for my groundbreaking work in developing a new software tool that significantly improved data analysis processes. The tool was adopted by several leading companies in the industry, and I received a certificate of recognition for my contributions. My tool featured the following innovations: ",
-                            "list": [
-                                "Real-time data processing capabilities",
-                                "User-friendly interface that reduced training time by 50%",
-                                "Integration with popular data visualization tools"
-                            ]
-                        },
-                        "fr": {
-                            "title": "{{Meilleur Innovateur}} – Sommet de l'Innovation Technologique",
-                            "province": "Rio de Janeiro",
-                            "country": "Brésil",
-                            "institution": "Innovateurs Technologiques Brésil",
-                            "text": "Reconnu comme le [[meilleur innovateur]] pour mon travail révolutionnaire dans le développement d'un nouvel outil logiciel qui a considérablement amélioré les processus d'analyse de données. L'outil a été adopté par plusieurs entreprises leaders du secteur, et j'ai reçu un certificat de reconnaissance pour mes contributions. Mon outil présentait les innovations suivantes : ",
-                            "list": [
-                                "Capacités de traitement des données en temps réel",
-                                "Interface conviviale qui a réduit le temps de formation de 50%",
-                                "Intégration avec des outils populaires de visualisation des données"
-                            ]
+                            "title": "{{Meilleur Projet de Fin d'Études}} – Modélisation et Visualisation des données avec R / Rstudio",
+                            "province": "Carcassonne",
+                            "country": "FRANCE",
+                            "institution": "AGRO",
+                            "text": "Concours du meilleur poster dans le cadre du projet de fin d'études."
                         }
                     }
                 }
+
             ]
         }
     ]
