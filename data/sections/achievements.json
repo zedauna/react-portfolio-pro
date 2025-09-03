@@ -1,0 +1,131 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Awards",
+                "title_short_nav": "Achievements",
+                "title_long_prefix": "Here are my",
+                "title_long": "Career {{Achievements}}"
+            },
+            "fr": {
+                "title_short": "Réalis",
+                "title_short_nav": "Réalisations",
+                "title_long_prefix": "Voici",
+                "title_long": "Mes {{Réalisations}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleCards",
+            "locales": {
+                "en": { "title": "Certifications" },
+                "fr": { "title": "Certifications" }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-solid fa-life-ring",
+                    "faIconColors": {"bg": "#326CE5", "fill": "#EEE"},
+                    "date": {"year": 2019, "month": 12},
+                    "link": {"href": "https://cyber.gouv.fr/decouvrir-lanssi", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{ANSSI}}",
+                            "text": "Certified Kubernetes Administrator (CKA)"
+                        },
+                        "fr": {
+                            "text": "Attestation de l’Agence Nationale de Sécurité des Systèmes d’Information (ANSSI)"
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-brands fa-microsoft",
+                    "faIconColors": {"bg": "#00A4EF", "fill": "#F25022"},
+                    "date": {"year": 2019, "month": 5},
+                    "link": {"href": "", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{Microsoft}} Web Services",
+                            "text": "AWS Certified Solutions Architect – Associate"
+                        },
+                        "fr": {
+                            "text": "Certificat informatique et Internet (C2i) dans la maitrise des TIC"
+                        }
+                    }
+                },                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fas fa-tools",
+                    "faIconColors": {"bg": "#FFD700", "fill": "#111"},
+                    "date": {"year": 2024, "month": 1},
+                    "link": {"href": "", "tooltipString": "see_certification"},
+                    "locales": {
+                        "en": {
+                            "title": "{{FME FORM}} Niveau Avancé",
+                            "text": "AWS Certified Solutions Architect – Associate"
+                        },
+                        "fr": {
+                            "text": "Certificat de réalisation dont la maîtrise des fonctionnalités avancées de FME FORM"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": { "title": "Awards" },
+                "fr": { "title": "Récompenses" }
+            },
+            "settings": {
+                "max_rows_collapse_threshold": 4,
+                "order_items_by": "date",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "date": {"year": 2019, "month": 9},
+                    "preview": {
+                        "links": [
+                            {"href": "https://www.facebook.com/IutStidCarcassonne/photos/a.1044526862398061/1434217843428959", "tooltipString": "read", "faIcon": "fa-brands fa-facebook"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Best Graduation Project}} – Backend Optimization",
+                            "province": "Massachusetts",
+                            "country": "US",
+                            "institution": "MIT",
+                            "text": "Awarded for outstanding performance in optimizing backend systems during my final year project where I improved the efficiency of data processing by 30%. I have also received a certificate of recognition for this achievement."
+                        },
+                        "fr": {
+                            "title": "{{Meilleur Projet de Fin d'Études}} – Modélisation et Visualisation des données avec R / Rstudio",
+                            "province": "Carcassonne",
+                            "country": "FRANCE",
+                            "institution": "AGRO",
+                            "text": "Concours du meilleur poster dans le cadre du projet de fin d'études."
+                        }
+                    }
+                }
+
+            ]
+        }
+    ]
+}

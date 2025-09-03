@@ -1,0 +1,171 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Experience",
+                "title_short_nav": "Experience",
+                "title_long_prefix": "Summary of my",
+                "title_long": "{{Work}} Experience"
+            },
+            "fr": {
+                "title_short": "Expérience",
+                "title_short_nav": "Expérience",
+                "title_long_prefix": "Résumé de mon",
+                "title_long": "Parcours {{Professionel}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "dateStart"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/pictures/timeline-place-sapphire-studio.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2016, "month": 3},
+                    "dateEnd": {"year": 2018, "month": 6},
+                    "locales": {
+                        "en": {
+                            "title": "{{Backend}} Developer",
+                            "province": "Toronto",
+                            "country": "Canada",
+                            "institution": "Sapphire Studio",
+                            "text": "Developed and maintained [[scalable backend systems]] for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
+                            "list": [],
+                            "tags": ["PHP8.0", "MySQL", "Laravel"]
+                        },
+                        "fr": {
+                            "title": "{{Full-Stack}} > Webmapping – Développeur PHP/JavaScript",
+                            "province": "Carcassonne",
+                            "country": "FRANCE",
+                            "institution": "",
+                            "text": "Développement d’itinéraire, de gestion et de suivi des apprentis (ISA).",
+                            "list": ["Conception API en PHP","Administration de la base de données spatiales sur PostgreSQL"],
+                            "tags": ["HTML", "CSS", "JavaScript (Leaflet, Ajax, AnyChart) ", "PHP" , "PostgreSQL / PostGIS" , "Data Viz"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "images/pictures/timeline-place-coursera.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2020, "month": 1},
+                    "dateEnd": {"year": 2021, "month": 12},
+                    "locales": {
+                        "en": {
+                            "title": "{{Full-Stack}} Engineer",
+                            "province": "",
+                            "country": "Remote",
+                            "institution": "Coursera",
+                            "text": "Worked on enhancing the Coursera website by implementing new features and improving user experience, utilizing both frontend and backend technologies to ensure seamless functionality.",
+                            "list": [],
+                            "tags": ["Svelte", "NodeJS", "Laravel", "REST APIs", "Docker"]
+                        },
+                        "fr": {
+                            "title": "{{Full-Stack}} > Administrateur des données",
+                            "province": "Toulouse",
+                            "country": "FRANCE",
+                            "institution": "Office National des Forêts (ONF)",
+                            "text": "Participation à l'administration des données, mise en place des scripts de traitements afin d'aider les collègues dans leurs différentes analyses",
+                            "list": [
+								"Administration des données",
+								"Réalisation des cartes propriétaires TPK en utilisant ARCGIS PRO",
+								"Portail ESRI ONF (WebCarto, Dashboards), ArcPy, AGOL, Api ArcGIS python",
+								"Production des cartes sur Arcgis , Arcgis Pro"
+								],
+                            "tags": ["MDD","MCD","FME","PYTHON","SQL","TPK"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "images/pictures/timeline-place-adobe.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2021, "month": 1},
+                    "dateEnd": {"year": 2022, "month": 8},
+                    "locales": {
+                        "en": {
+                            "title": "{{Backend}} Engineer",
+                            "province": "New York",
+                            "country": "US",
+                            "institution": "Adobe Inc",
+                            "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
+                            "list": [],
+                            "tags": ["JavaScript", "Flutter", "MongoDB", "CodeIgniter", "Kubernetes"]
+                        },
+                        "fr": {
+                            "title": "{{Backend}} > Spécialiste SIG ",
+                            "province": "Toulouse",
+                            "country": "FRANCE",
+                            "institution": "Office National des Forêts (ONF)",
+                            "text": "Participation au développement des webCartos et amélioration de l’efficacité du traitement des données.",
+                            "list": [
+								"Production des shapefiles ou Géodatabases (GDB) par programmation avec Arcpy",
+								"Programmation des formulaires d'enquêtes sur Arcgis Survey123 / XlsForm",
+								"Cadastre (MAJIC, EDIGEO) : Arcopole, FME, QGIS, Postgres / Postgis, Python, Bash",
+								"Portail ESRI ONF (WebCarto, Dashboards), ArcPy, AGOL, Api ArcGIS python",
+								"Automatisation des Reportings : Python, jinja2, HTML, CSS",
+								"Développeur Webmapping et Développeur Python"
+							],
+                            "tags": ["Survey123 / XlsForm","Arcgis Pro","Bash","Api ArcGIS python", "Python", "GeoJson", "Shapefiles"]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-brands fa-apple",
+                    "faIconColors": {"bg": "#111", "fill": "#EEE"},
+                    "dateStart": {"year": 2022, "month": 12},
+                    "dateEnd": {"now": true},
+                    "locales": {
+                        "en": {
+                            "title": "{{Senior Backend}} Developer",
+                            "province": "California",
+                            "country": "US",
+                            "institution": "Apple Inc",
+                            "text": "Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:",
+                            "list": [
+                                "Security",
+                                "Scalability to handle millions of users globally",
+                                "Developing RESTful APIs",
+                                "Optimizing database performance with PostgreSQL",
+                                "Building services with Swift, PHP, and GraphQL"
+                            ],
+                            "tags": ["JavaScript", "React", "NodeJS", "PHP", "REST APIs", "Docker"]
+                        },
+                        "fr": {
+                            "title": "{{Senior Backend}} > Administrateur de données SI / Développeur SIG ",
+                            "province": "Toulouse",
+                            "country": "FRANCE",
+                            "institution": "Office National des Forêts (ONF)",
+                            "text": "Responsable d'une équipe de développeurs pour concevoir et mettre en œuvre des solutions backend pour les services Apple, en se concentrant sur :",
+                            "list": [
+                                "Administrateur des données (DBA)",
+                                "Développeur SIG et Développeur Python",
+                                "Développeur d’API RESTful",
+                                "Optimisation des performances des bases de données avec PostgreSQL",
+                                "Expertise de la cohérence des données dans l'utilisation des applicatifs [[Metier SI]]",
+								"Analyse du flux des données et Cartographie du SI",
+								"Analyse critique (quantité / qualité) des données SI",
+								"Portail ESRI ONF (WebCarto, Dashboards), ArcPy, AGOL, Api ArcGIS python"
+                            ],
+                            "tags": ["JavaScript", "React", "NodeJS", "PHP", "REST APIs", "Python","Golang"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

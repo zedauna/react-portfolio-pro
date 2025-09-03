@@ -1,0 +1,414 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Education",
+                "title_short_nav": "Education",
+                "title_long_prefix": "This is my",
+                "title_long": "{{Education}} Background"
+            },
+            "fr": {
+                "title_short": "Éducation",
+                "title_short_nav": "Éducation",
+                "title_long_prefix": "C'est mon",
+                "title_long": "{{Contexte}} Éducatif"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/pictures/timeline-place-udacity.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2010,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "year": 2013,
+                        "month": 24
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Licence Pro}} in Agronomic Sciences: Rural Engineering & Agricultural Mechanization",
+                            "province": "",
+                            "country": "BENIN",
+                            "institution": "FSA",
+                            "text": "I successfully completed this training, during which I gained extensive hands-on experience in Exploratory Data Analysis: PCA, MCA, MFA, GIS.",
+                            "list": [],
+                            "tags": ["Arcgis", "R/Rstudio" , "Epanet" , "Autocad" , "Visual Basic" , "Gimp"]
+                        },
+                        "fr": {
+                            "title": "{{Licence Pro}} en Sciences Agronomiques spécialité Génie rural et mécanisation agricole",
+                            "province": "",
+                            "country": "BENIN",
+                            "institution": "FSA",
+                            "text": "J'ai terminé avec succès cette formation, au cours duquel j'ai acquis une expérience pratique approfondie dans l' Analyse exploratoire des données : ACP, AFC, AFCM, SIG.",
+							"list": [],
+                            "tags": ["Arcgis", "R/Rstudio" , "Epanet" , "Autocad" , "Visual Basic" , "Gimp"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "images/pictures/timeline-place-mit.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2020,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "year": 2021,
+                        "month": 12
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Licence Pro}} in informatique : Web-based Geographic Information System (Web GIS)",
+                            "province": "",
+                            "country": "FRANCE",
+                            "institution": "University of Perpignan",
+                            "text": "I earned a [[Bachelor’s degree in Computer Science]], with a focus on algorithms, data structures, cartographic analysis, and web development. I gained solid hands-on experience through various programming projects, coding bootcamps, and collaborative team activities..",
+                            "list": [],
+                            "tags": ["Arcgis", "Arcgis Pro" , "Qgis" , "MapInfo" , "Arcpy" , "Python" , "FME" , "R/Rstudio" , "SAS" , "Python" , "PostgreSQL" , "Looping"]
+                        },
+                        "fr": {
+                            "title": "{{Licence Pro}} en l’informatique : Système d'information géographique orienté WEB (SIGWEB)",
+                            "province": "",
+                            "country": "FRANCE",
+                            "institution": "IUT de Carcassonne de l’Université de Perpignan",
+                            "text": "J'ai obtenu une [[licence en informatique]], avec un accent sur les algorithmes, les structures de données, l’analyse cartographiques et le développement web. J'ai acquis une solide expérience pratique grâce à divers projets de programmation, des bootcamps de code et des activités collaboratives en équipe.",
+                            "list": [],
+                            "tags": ["Arcgis", "Arcgis Pro" , "Qgis" , "MapInfo" , "Arcpy" , "Python" , "FME" , "R/Rstudio" , "SAS" , "Python" , "PostgreSQL" , "Looping"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "images/pictures/timeline-place-university-paris.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2016,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "year": 2018,
+                        "month": 12
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Master's}} in Water and Environmental Sciences (MSEE)",
+                            "province": "",
+                            "country": "France",
+                            "institution": "University of Corse",
+                            "text": "Completed a comprehensive Master's program focused on [[cutting-edge topics]], including:",
+                            "list": [
+                                "Machine Learning",
+                                "Exploratory Data Analysis: PCA, MCA, MFA",
+                                "Study and implementation of territorial diagnostics"
+                            ],
+                            "tags": ["Arcgis", "R/Rstudio" , "Epanet" , "Autocad", "Géoportail"]
+                        },
+                        "fr": {
+                            "title": "{{Master}} en Sciences Eau et Environnement (MSEE)",
+                            "province": "",
+                            "country": "France",
+                            "institution": "Université de Corse",
+                            "text": "J'ai terminé un programme de master complet axé sur [[les sujets avancés]], notamment :",
+                            "list": [
+                                "Analyse exploratoire : ACP, AFC, AFCM",
+                                "Études et réalisation de diagnostics territoriaux",
+								"Machine Learning"
+                            ],
+                            "tags": ["Arcgis", "R/Rstudio" , "Epanet" , "Autocad", "Géoportail"]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "images/pictures/timeline-place-harvard.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2022,
+                        "month": 9
+                    },
+                    "dateEnd": {
+                        "year": 2025,
+                        "month": 6
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Self-taught}} > Front End Engineer Career Path",
+							"institution": "Udemy",
+                            "text": "Initially started this to keep up with agency work demands, but ended up absolutely loving it! The visual and interactive aspects were brilliant - spent hours perfecting UI components and animations. With tight deadlines at work, I had to learn fast and practise loads. Managed to complete it alongside the Full Stack path, which was intense but so rewarding!",
+							"list": [],
+							"tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
+                        },
+                        "fr": {
+                            "title": "{{Autodidacte}} > Parcours de Carrière d'Ingénieur Front End",
+							"institution": "CodeCademy",
+                            "text": "J'ai terminé le Parcours de Carrière d'Ingénieur Front End, spécialisé dans les technologies de développement front-end.",
+							"list": [],
+                            "tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "images/pictures/timeline-place-harvard.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2022,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "year": 2022,
+                        "month": 3
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Self-taught}} > Front End Engineer Career Path",
+							"institution": "Udemy",
+                            "text": "Initially started this to keep up with agency work demands, but ended up absolutely loving it! The visual and interactive aspects were brilliant - spent hours perfecting UI components and animations. With tight deadlines at work, I had to learn fast and practise loads. Managed to complete it alongside the Full Stack path, which was intense but so rewarding!",
+							"list": [],
+							"tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
+                        },
+                        "fr": {
+                            "title": "{{Autodidacte}} > Cartographie sur le Web",
+							"institution": "Udemy",
+                            "text": "J'ai terminé le Parcours de Carrière d'Ingénieur Front End, spécialisé dans les technologies de développement front-end.",
+							"list": [
+								"Intégrer des cartes dans un site Web, créées en Javascript avec Leaflet",
+								" Ajouter sur la carte des marqueurs, des images, des légendes, des dessins, des interactions...",
+								"Obtenir des données sur les cartes (coordonnées de points, géocodage (adresse postale), géodécodage, géolocalisation...",
+								"Afficher des informations sur la carte (zones colorées selon les valeurs contenues dans un fichier GeoJSON)"
+							],
+                            "tags": ["Leaflet", "JavaScript", "Open Street Map","Open Data"]
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": "images/pictures/timeline-place-harvard.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2021,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "year": 2021,
+                        "month": 3
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Self-taught}} > Front End Engineer Career Path",
+							"institution": "CodeCademy",
+                            "text": "Initially started this to keep up with agency work demands, but ended up absolutely loving it! The visual and interactive aspects were brilliant - spent hours perfecting UI components and animations. With tight deadlines at work, I had to learn fast and practise loads. Managed to complete it alongside the Full Stack path, which was intense but so rewarding!",
+							"list": [],
+							"tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
+                        },
+                        "fr": {
+                            "title": "{{Autodidacte}} > Apprendre la data science par la pratique avec Python !",
+							"institution": "Udemy",
+                            "text": "J'ai terminé cette formation afin de renforcer mes connaissances sur les différents concepts de traitement et d'apprentissage de la donnée.",
+							"list": [
+								"Les principales méthodes d’extraction de données (fichier, API, SQL, webscraping)",
+								"La Data Visualisation",
+								"L’analyse de données",
+								"La construction de vos premiers modèles de machine learning"
+							],
+                            "tags": ["Data Science", "Python", "Machine learning", "data viz", "data mining", "SQL", "API", "Web scraping", "big data", "Jupyter"]
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "img": "images/pictures/timeline-place-harvard.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2024,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "year": 2025,
+                        "month": 15
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Self-taught}} > Front End Engineer Career Path",
+							"institution": "CodeCademy",
+                            "text": "Initially started this to keep up with agency work demands, but ended up absolutely loving it! The visual and interactive aspects were brilliant - spent hours perfecting UI components and animations. With tight deadlines at work, I had to learn fast and practise loads. Managed to complete it alongside the Full Stack path, which was intense but so rewarding!",
+							"list": [],
+							"tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
+                        },
+                        "fr": {
+                            "title": "{{Autodidacte}} > Devenir un Expert redouté du Framework JavaScript Angular",
+							"institution": "Udemy",
+                            "text": "J'ai terminé cette formation sur Angular , avec l'intégralité des signaux, spécialisé dans les technologies de développement front-end.",
+							"list": [
+								"Maîtriser le développement d'application SPA avec angular 19-20, les signaux, zoneless, les resources",
+								"Créer une application SPA avec la dernière génération d'angular",
+								"Comprendre et savoir utiliser les signaux",
+								"Savoir requêter une api",
+								"Créer des applications maintenables et testables",
+								"Publier une application angular sur internet (firebase)",
+								"Apprendre la programmation POC : Programmation Orientée Composant"
+							],
+                            "tags": ["JavaScript","Angular","CSS","HTML","UI/UX","Responsive Design","Web Development","TypeScript"]
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "img": "images/pictures/timeline-place-harvard.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2023,
+                        "month": 2
+                    },
+                    "dateEnd": {
+                        "year": 2023,
+                        "month": 9
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Self-taught}} > Front End Engineer Career Path",
+							"institution": "CodeCademy",
+                            "text": "Initially started this to keep up with agency work demands, but ended up absolutely loving it! The visual and interactive aspects were brilliant - spent hours perfecting UI components and animations. With tight deadlines at work, I had to learn fast and practise loads. Managed to complete it alongside the Full Stack path, which was intense but so rewarding!",
+							"list": [],
+							"tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
+                        },
+                        "fr": {
+                            "title": "{{Autodidacte}} > React et Typescript",
+							"institution": "Udemy",
+                            "text": "J'ai terminé cette formation avec succès pour une maitrise de React et la gestion des states.",
+							"list": [
+								"Améliorer son style avec Tailwind et Shadcn",
+								"Améliorer sa programmation front-end de façon générale avec tous les outils de l'écosystème React"
+							],
+                            "tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
+                        }
+                    }
+                },
+                {
+                    "id": 9,
+                    "img": "images/pictures/timeline-place-harvard.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2025,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "year": 2025,
+                        "month": 4
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Self-taught}} > Front End Engineer Career Path",
+							"institution": "Udemy",
+                            "text": "Initially started this to keep up with agency work demands, but ended up absolutely loving it! The visual and interactive aspects were brilliant - spent hours perfecting UI components and animations. With tight deadlines at work, I had to learn fast and practise loads. Managed to complete it alongside the Full Stack path, which was intense but so rewarding!",
+							"list": [],
+							"tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
+                        },
+                        "fr": {
+                            "title": "{{Autodidacte}} > Rust pour tous Le langage de programmation sûr et moderne",
+							"institution": "Udemy",
+                            "text": "J'apprends à coder en Rust, le langage moderne et performant, en maîtrisant ses concepts clés et ses pratiques avancées, [[Toujours pas terminé]].",
+							"list": [
+								"Gestion des variables et des types de données",
+								"Concepts fondamentaux de Rust",
+								"Traitement des erreurs",
+								"Organisation et modularité du code",
+								"Programmation concurrente et asynchrone"
+							],
+                            "tags": ["Cargo"]
+                        }
+                    }
+                },
+                {
+                    "id": 10,
+                    "img": "images/pictures/timeline-place-harvard.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2024,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "year": 2024,
+                        "month": 8
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Self-taught}} > Front End Engineer Career Path",
+							"institution": "Udemy",
+                            "text": "Initially started this to keep up with agency work demands, but ended up absolutely loving it! The visual and interactive aspects were brilliant - spent hours perfecting UI components and animations. With tight deadlines at work, I had to learn fast and practise loads. Managed to complete it alongside the Full Stack path, which was intense but so rewarding!",
+							"list": [],
+							"tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
+                        },
+                        "fr": {
+                            "title": "{{Autodidacte}} > Les fondamentaux et notions avancées du langage Go (Golang)",
+							"institution": "Udemy",
+                            "text": "J'ai terminé l'apprentissage de Go,le langage rapide et fiable de Google pour créer APIs, microservices, cloud, et développement backend.",
+							"list": [
+								"Les Goroutines et les Channels pour paralléliser vos traitements",
+								"Les requêtes HTTP GET / POST avec du contenu JSON",
+								"Le routing pour créer un serveur web performant",
+								"Les interactions base de données en SQL",
+								"La sécurisation d'API avec JWT"
+							],
+                            "tags": ["API","SQL"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
