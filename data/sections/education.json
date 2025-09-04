@@ -27,7 +27,7 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "images/pictures/timeline-place-udacity.png",
+                    "img": "images/zedauna/fsa-uac.jpg",
                     "faIcon": "",
                     "faIconColors": {
                         "bg": "",
@@ -64,7 +64,7 @@
                 },
                 {
                     "id": 2,
-                    "img": "images/pictures/timeline-place-mit.png",
+                    "img": "images/zedauna/LogoUni.png",
                     "faIcon": "",
                     "faIconColors": {
                         "bg": "",
@@ -101,7 +101,7 @@
                 },
                 {
                     "id": 3,
-                    "img": "images/pictures/timeline-place-university-paris.png",
+                    "img": "images/zedauna/corse_Pascal_Paoli.svg.png",
                     "faIcon": "",
                     "faIconColors": {
                         "bg": "",
@@ -146,7 +146,7 @@
                 },
                 {
                     "id": 4,
-                    "img": "images/pictures/timeline-place-harvard.png",
+                    "img": "images/pictures/timeline-place-udacity.png",
                     "faIcon": "",
                     "faIconColors": {
                         "bg": "",
@@ -164,13 +164,13 @@
                         "en": {
                             "title": "{{Self-taught}} > Front End Engineer Career Path",
 							"institution": "Udemy",
-                            "text": "Initially started this to keep up with agency work demands, but ended up absolutely loving it! The visual and interactive aspects were brilliant - spent hours perfecting UI components and animations. With tight deadlines at work, I had to learn fast and practise loads. Managed to complete it alongside the Full Stack path, which was intense but so rewarding!",
+                            "text": "I completed the Front End Engineer Career Path, specializing in front-end development technologies",
 							"list": [],
 							"tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
                         },
                         "fr": {
                             "title": "{{Autodidacte}} > Parcours de Carrière d'Ingénieur Front End",
-							"institution": "CodeCademy",
+							"institution": "Udemy",
                             "text": "J'ai terminé le Parcours de Carrière d'Ingénieur Front End, spécialisé dans les technologies de développement front-end.",
 							"list": [],
                             "tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
@@ -179,7 +179,7 @@
                 },
                 {
                     "id": 5,
-                    "img": "images/pictures/timeline-place-harvard.png",
+                    "img": "images/pictures/timeline-place-udacity.png",
                     "faIcon": "",
                     "faIconColors": {
                         "bg": "",
@@ -195,11 +195,16 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Self-taught}} > Front End Engineer Career Path",
+							"title": "{{Self-Taught}} > Web Mapping",
 							"institution": "Udemy",
-                            "text": "Initially started this to keep up with agency work demands, but ended up absolutely loving it! The visual and interactive aspects were brilliant - spent hours perfecting UI components and animations. With tight deadlines at work, I had to learn fast and practise loads. Managed to complete it alongside the Full Stack path, which was intense but so rewarding!",
-							"list": [],
-							"tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
+							"text": "I completed the Front-End Engineer Career Path, specializing in front-end development technologies.",
+							"list": [
+								"Embedding maps into a website, created in JavaScript with Leaflet",
+								"Adding markers, images, legends, drawings, and interactions to the map...",
+								"Getting data from maps (point coordinates, geocoding (postal address), geodecoding, geolocation...",
+								"Displaying information on the map (colored areas based on values ​​contained in a GeoJSON file)"
+							],
+							"tags": ["Leaflet", "JavaScript", "Open Street Map","Open Data"]
                         },
                         "fr": {
                             "title": "{{Autodidacte}} > Cartographie sur le Web",
@@ -217,7 +222,7 @@
                 },
                 {
                     "id": 6,
-                    "img": "images/pictures/timeline-place-harvard.png",
+                    "img": "images/pictures/timeline-place-udacity.png",
                     "faIcon": "",
                     "faIconColors": {
                         "bg": "",
@@ -233,11 +238,16 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Self-taught}} > Front End Engineer Career Path",
-							"institution": "CodeCademy",
-                            "text": "Initially started this to keep up with agency work demands, but ended up absolutely loving it! The visual and interactive aspects were brilliant - spent hours perfecting UI components and animations. With tight deadlines at work, I had to learn fast and practise loads. Managed to complete it alongside the Full Stack path, which was intense but so rewarding!",
-							"list": [],
-							"tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
+							"title": "{{Self-taught}} > Learn data science by doing with Python!",
+							"institution": "Udemy",
+							"text": "I completed this course to strengthen my knowledge of the various concepts of data processing and learning.",
+							"list": [
+								"The main data extraction methods (file, API, SQL, web scraping)",
+								"Data Visualization",
+								"Data Analysis",
+								"Building your first machine learning models"
+							],
+							"tags": ["Data Science", "Python", "Machine learning", "data viz", "data mining", "SQL", "API", "Web scraping", "big data", "Jupyter"]
                         },
                         "fr": {
                             "title": "{{Autodidacte}} > Apprendre la data science par la pratique avec Python !",
@@ -255,7 +265,7 @@
                 },
                 {
                     "id": 7,
-                    "img": "images/pictures/timeline-place-harvard.png",
+                    "img": "images/pictures/timeline-place-udacity.png",
                     "faIcon": "",
                     "faIconColors": {
                         "bg": "",
@@ -271,11 +281,19 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Self-taught}} > Front End Engineer Career Path",
-							"institution": "CodeCademy",
-                            "text": "Initially started this to keep up with agency work demands, but ended up absolutely loving it! The visual and interactive aspects were brilliant - spent hours perfecting UI components and animations. With tight deadlines at work, I had to learn fast and practise loads. Managed to complete it alongside the Full Stack path, which was intense but so rewarding!",
-							"list": [],
-							"tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
+							"title": "{{Self-Taught}} > Become a Reputable Expert in the Angular JavaScript Framework",
+							"institution": "Udemy",
+							"text": "I completed this training on Angular, with all the signals, specializing in front-end development technologies.",
+							"list": [
+								"Master SPA application development with Angular 19-20, signals, zoneless, resources",
+								"Create a SPA application with the latest generation of Angular",
+								"Understand and know how to use signals",
+								"Know how to request an API",
+								"Create maintainable and testable applications",
+								"Publish an Angular application on the internet (Firebase)",
+								"Learn POC programming: Component-Oriented Programming"
+							],
+							"tags": ["JavaScript","Angular","CSS","HTML","UI/UX","Responsive Design","Web Development","TypeScript"]
                         },
                         "fr": {
                             "title": "{{Autodidacte}} > Devenir un Expert redouté du Framework JavaScript Angular",
@@ -296,7 +314,7 @@
                 },
                 {
                     "id": 8,
-                    "img": "images/pictures/timeline-place-harvard.png",
+                    "img": "images/pictures/timeline-place-udacity.png",
                     "faIcon": "",
                     "faIconColors": {
                         "bg": "",
@@ -312,10 +330,13 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Self-taught}} > Front End Engineer Career Path",
-							"institution": "CodeCademy",
-                            "text": "Initially started this to keep up with agency work demands, but ended up absolutely loving it! The visual and interactive aspects were brilliant - spent hours perfecting UI components and animations. With tight deadlines at work, I had to learn fast and practise loads. Managed to complete it alongside the Full Stack path, which was intense but so rewarding!",
-							"list": [],
+							"title": "{{Self-taught}} > React and Typescript",
+							"institution": "Udemy",
+							"text": "I successfully completed this course to master React and state management.",
+							"list": [
+								"Improve your style with Tailwind and Shadcn",
+								"Improve your front-end programming in general with all the tools in the React ecosystem"
+							],
 							"tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
                         },
                         "fr": {
@@ -332,7 +353,7 @@
                 },
                 {
                     "id": 9,
-                    "img": "images/pictures/timeline-place-harvard.png",
+                    "img": "images/pictures/timeline-place-udacity.png",
                     "faIcon": "",
                     "faIconColors": {
                         "bg": "",
@@ -348,11 +369,17 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Self-taught}} > Front End Engineer Career Path",
+							"title": "{{Self-Taught}} > Rust for Everyone: The Secure and Modern Programming Language",
 							"institution": "Udemy",
-                            "text": "Initially started this to keep up with agency work demands, but ended up absolutely loving it! The visual and interactive aspects were brilliant - spent hours perfecting UI components and animations. With tight deadlines at work, I had to learn fast and practise loads. Managed to complete it alongside the Full Stack path, which was intense but so rewarding!",
-							"list": [],
-							"tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
+							"text": "I'm learning to code in Rust, the modern and powerful language, by mastering its key concepts and advanced practices, [[Still not finished]].",
+							"list": [
+								"Variable and Data Type Management",
+								"Fundamental Rust Concepts",
+								"Error Handling",
+								"Code Organization and Modularity",
+								"Concurrent and Asynchronous Programming"
+							],
+							"tags": ["Cargo","Tools"]
                         },
                         "fr": {
                             "title": "{{Autodidacte}} > Rust pour tous Le langage de programmation sûr et moderne",
@@ -365,13 +392,13 @@
 								"Organisation et modularité du code",
 								"Programmation concurrente et asynchrone"
 							],
-                            "tags": ["Cargo"]
+                            "tags": ["Cargo","Tools"]
                         }
                     }
                 },
                 {
                     "id": 10,
-                    "img": "images/pictures/timeline-place-harvard.png",
+                    "img": "images/pictures/timeline-place-udacity.png",
                     "faIcon": "",
                     "faIconColors": {
                         "bg": "",
@@ -387,11 +414,17 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Self-taught}} > Front End Engineer Career Path",
+							"title": "{{Self-taught}} > The fundamentals and advanced concepts of the Go (Golang) language",
 							"institution": "Udemy",
-                            "text": "Initially started this to keep up with agency work demands, but ended up absolutely loving it! The visual and interactive aspects were brilliant - spent hours perfecting UI components and animations. With tight deadlines at work, I had to learn fast and practise loads. Managed to complete it alongside the Full Stack path, which was intense but so rewarding!",
-							"list": [],
-							"tags": ["JavaScript","React","CSS","HTML","UI/UX","Responsive Design","Web Development"]
+							"text": "I finished learning Go, Google's fast and reliable language for building APIs, microservices, cloud computing, and backend development.",
+							"list": [
+								"Goroutines and Channels to parallelize your processing",
+								"HTTP GET/POST requests with JSON content",
+								"Routing to create a high-performance web server",
+								"Database interactions in SQL",
+								"API security with JWT"
+							],
+							"tags": ["API","SQL","TOOLS"]
                         },
                         "fr": {
                             "title": "{{Autodidacte}} > Les fondamentaux et notions avancées du langage Go (Golang)",
@@ -404,7 +437,7 @@
 								"Les interactions base de données en SQL",
 								"La sécurisation d'API avec JWT"
 							],
-                            "tags": ["API","SQL"]
+                            "tags": ["API","SQL","TOOLS"]
                         }
                     }
                 }
