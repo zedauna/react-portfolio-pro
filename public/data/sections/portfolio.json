@@ -58,8 +58,8 @@
                     "locales": {
                         "en": {
                             "title": "SIG WEBMAP",
-                            "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
-                            "tags": ["API", "REST", "Backend"]
+							"text": "WebGIS Application Development.",
+							"tags": ["SVG", "Leaflet", "PHP"]
                         },
                         "fr": {
                             "text": "Développement des applications WebSIG.",
@@ -84,9 +84,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "wordcloud",
-                            "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
-                            "tags": ["Flutter", "E-mail", "Communication"]
+							"title": "wordcloud",
+							"text": "Creating word clouds.",
+							"tags": ["google", "javascript", "Communication"]
                         },
                         "fr": {
 							"title": "wordcloud",
@@ -112,13 +112,13 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Light Blue",
-                            "text": "A fully-featured productivity app developed with <b>React Native</b>, enabling users to organize tasks, notes, and projects across multiple devices. It offers <b>cloud sync</b>, intuitive UI, and collaboration features.",
-                            "tags": ["React", "Organization", "Notes"]
+							"title": "3D Globe", 
+							"text": "Animation with Three.js (3D).", 
+							"tags": ["3D", "Three.js", "Globe"]
                         },
                         "fr": {
 							"title": "Globe 3D",
-                            "text": "Animation avec Three.js.",
+                            "text": "Animation avec Three.js (3D).",
                             "tags": ["3D", "Three.js ", "Globe"]
                         }
                     }
@@ -142,9 +142,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "SmartCash",
-                            "text": "A finance website built using <b>Next.js</b>, allowing users to <b>track budgets</b> and manage their money with interactive charts and insights.",
-                            "tags": ["Next.js", "Finance", "Money"]
+							"title": "AlphaSpacex",
+							"text": "Web application for viewing spatial data from several public APIs.",
+							"tags": ["React.js", "spatial data", "Spaceflight News API", "Datastro NASA Hubble dataset", "SpaceX API v3"]
                         },
                         "fr": {
                             "title": "AlphaSpacex",
@@ -171,9 +171,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Snappy",
-                            "text": "A powerful photography app designed with <b>Swift</b> for iOS and Android, featuring <b>advanced camera controls</b>, editing tools, and AI-powered filters for quick photo enhancements.",
-                            "tags": ["Swift", "Photography", "Camera"]
+							"title": "Admin-Dashboard-Angular",
+							"text": "A web application built with Angular.",
+							"tags": ["Angular Material", "DummyJSON API", "RxJS"]
                         },
                         "fr": {
                             "title": "Admin-Dashboard-Angular",
@@ -200,9 +200,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Sweet Scoops",
-                            "text": "A recipe website built with <b>WordPress</b> and WooCommerce, featuring a rich collection of <b>dessert recipes</b> and an integrated e-commerce platform.",
-                            "tags": ["WooCommerce", "Food", "Desserts"]
+							"title": "Tools Directory",
+							"text": "Collection of folder and file management tools with Go.",
+							"tags": ["Golang", "Go"]
                         },
                         "fr": {
                             "title": "Tools Directory",
@@ -219,7 +219,7 @@
                     "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/zedauna/portfolio/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
+                            {"href": "https://zedauna.github.io/portfolio/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
 							{"href": "https://github.com/zedauna/portfolio", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
                         ],
                         "screenshots": [
@@ -230,9 +230,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "RockVerse",
-                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-                            "tags": ["Django", "Music", "Rock"]
+							"title": "Portfolio",
+							"text": "My basic portfolio.",
+							"tags": ["Training", "Course", "Projects"]
                         },
                         "fr": {
                             "title": "Portfolio",
@@ -259,9 +259,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "RockVerse",
-                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-                            "tags": ["Django", "Music", "Rock"]
+							"title": "Sql_PlpGsql",
+							"text": "Collection of PLpgSQL methods for processing data.",
+							"tags": ["Data", "Procedure", "Projects"]
                         },
                         "fr": {
                             "title": "Sql_PlpGsql",
@@ -287,9 +287,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "RockVerse",
-                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-                            "tags": ["Django", "Music", "Rock"]
+							"title": "NLP Cleaning",
+							"text": "Cleaning text data and creating audio files.",
+							"tags": ["NLP", "WORD CLOUD", "Projects"]
                         },
                         "fr": {
                             "title": "NLP Cleaning",
@@ -315,9 +315,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "RockVerse",
-                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-                            "tags": ["Django", "Music", "Rock"]
+							"title": "Marker-Icon-for-leaflet", 
+							"text": "Production Marker Icon for leaflet in SVG with PHP by simply changing the colors.", 
+							"tags": ["WEBMAPPING", "MARKER", "Projects"]
                         },
                         "fr": {
                             "title": "Marker-Icon-for-leaflet",

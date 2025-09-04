@@ -390,7 +390,7 @@
                 {
                     "id": 5,
                     "img": "",
-                    "faIcon": "fa-brands fa-anuglar",
+                    "faIcon": "fa-brands fa-angular",
                     "faIconColors": {"bg": "", "fill": "#4FC08D", "fillLight": "#2b825b"},
                     "date": {"year": 2023, "month": 8},
                     "percentage": 80,

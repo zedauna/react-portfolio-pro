@@ -163,8 +163,8 @@
                     "locales": {
                         "en": {
                             "title": "Launched my {{personal website!}}",
-                            "province": "California",
-                            "country": "US",
+                            "province": "Toulouse",
+                            "country": "FRANCE",
                             "institution": "",
                             "text": "I’m excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It’s been a labor of love, and I can’t wait for you all to explore it. Here are some highlights of what you can find on the site:",
                             "list": [
@@ -192,18 +192,20 @@
                     "id": 2,
                     "date": {"year": 2025, "month": 9},
                     "preview": {
-                        "links": [],
+                        "links": [
+							{"href": "https://github.com/zedauna/Admin-dashboard-Angular-Material", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+						],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
                         "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
-                            "title": "Relocating to {{California!}}",
-                            "province": "Ontario",
-                            "country": "Canada",
-                            "institution": "",
-                            "text": "I’ve recently made the move to California, USA, to explore new opportunities, both professionally and personally. I’m looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what’s ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"
+							"title": "Development in {{Angular!}}",
+							"province": "Toulouse",
+							"country": "FRANCE",
+							"institution": "",
+							"text": "I'm developing a dashboard with Angular to understand signals"
                         },
                         "fr": {
                             "title": "Développement en  {{Angular!}}",

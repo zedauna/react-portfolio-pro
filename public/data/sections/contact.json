@@ -58,7 +58,7 @@
                     "id": 1,
                     "faIcon": "fa-solid fa-phone",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "+1 (123) 456-7890",
+                    "label": "+33 6 XX XX XX XX",
                     "link": {"href": "tel:11234567890", "tooltipString": "call_me"},
                     "locales": {
                         "en": {"title": "Phone"},

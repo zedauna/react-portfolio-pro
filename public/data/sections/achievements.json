@@ -72,10 +72,11 @@
                     "link": {"href": "", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
-                            "title": "{{FME FORM}} Niveau Avancé",
-                            "text": "AWS Certified Solutions Architect – Associate"
+                            "title": "{{FME FORM}} Advanced Level",
+                            "text": "Completion Certificate for Advanced Proficiency in FME Form"
                         },
                         "fr": {
+							"title": "{{FME FORM}} Niveau Avancé",
                             "text": "Certificat de réalisation dont la maîtrise des fonctionnalités avancées de FME FORM"
                         }
                     }
@@ -101,7 +102,8 @@
                     "date": {"year": 2019, "month": 9},
                     "preview": {
                         "links": [
-                            {"href": "https://www.facebook.com/IutStidCarcassonne/photos/a.1044526862398061/1434217843428959", "tooltipString": "read", "faIcon": "fa-brands fa-facebook"}
+                            {"href": "https://www.facebook.com/IutStidCarcassonne/photos/a.1044526862398061/1434217843428959", "tooltipString": "read", "faIcon": "fa-brands fa-facebook"},
+							{"href": "https://github.com/zedauna/PROJET-SENSORIEL-R-DATAVIZ-POSTER/blob/master/rapport%20du%20projet%20final.pdf", "tooltipString": "read", "faIcon": "fa-solid fa-file-pdf"}
                         ],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
@@ -109,21 +111,51 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Best Graduation Project}} – Backend Optimization",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "MIT",
-                            "text": "Awarded for outstanding performance in optimizing backend systems during my final year project where I improved the efficiency of data processing by 30%. I have also received a certificate of recognition for this achievement."
+                            "title": "{{Best Graduation Project}} > Data Modeling and Visualization with R / RStudio",
+                            "province": "Carcassonne",
+                            "country": "FRANCE",
+                            "institution": "AGRO",
+                            "text": "Award for Best Poster in the Final Year Project."
                         },
                         "fr": {
-                            "title": "{{Meilleur Projet de Fin d'Études}} – Modélisation et Visualisation des données avec R / Rstudio",
+                            "title": "{{Meilleur Projet de Fin d'Études}} > Modélisation et Visualisation des données avec R / Rstudio",
                             "province": "Carcassonne",
                             "country": "FRANCE",
                             "institution": "AGRO",
                             "text": "Concours du meilleur poster dans le cadre du projet de fin d'études."
                         }
                     }
+                },                {
+                    "id": 2,
+                    "date": {"year": 2022, "month": 2},
+                    "preview": {
+                        "links": [
+                            {"href": "https://zedauna.github.io/presentation_with_reveal_js/presentation_isa/index.html", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
+							{"href": "https://zedauna.github.io/presentation_with_reveal_js/rapport_alternance/index.html", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
+							{"href": "https://github.com/zedauna/presentation_with_reveal_js", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Best Presentation Award}} > Report with Animations",
+                            "province": "Carcassonne",
+                            "country": "FRANCE",
+                            "institution": "INFO",
+                            "text": "Award for Best Presentation."
+                        },
+                        "fr": {
+                            "title": "{{Meilleur Projet de Présentation}} > Compte rendu avec animations",
+                            "province": "Carcassonne",
+                            "country": "FRANCE",
+                            "institution": "INFO",
+                            "text": "Concours de la meilleure présentation."
+                        }
+                    }
                 }
+
 
             ]
         }
