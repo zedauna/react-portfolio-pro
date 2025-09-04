@@ -103,7 +103,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/zedauna/globe_complexe", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
+                            {"href": "https://zedauna.github.io/globe_complexe/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
 							{"href": "https://github.com/zedauna/globe_complexe", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
                         ],
                         "screenshots": [],
@@ -232,12 +232,12 @@
                         "en": {
 							"title": "Portfolio",
 							"text": "My basic portfolio.",
-							"tags": ["Training", "Course", "Projects"]
+							"tags": ["Training", "Course", "Projects","OLD"]
                         },
                         "fr": {
                             "title": "Portfolio",
                             "text": " Mon portFolio en version basique.",
-                            "tags": ["Formation", "Parcours", "Projets"]
+                            "tags": ["Formation", "Parcours", "Projets","OLD"]
                         }
                     }
                 },
