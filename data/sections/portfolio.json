@@ -269,7 +269,8 @@
                             "tags": ["Donnée", "Procédure", "Projets"]
                         }
                     }
-                },                {
+                }, 
+				{
                     "id": 9,
                     "categoryId": "category_utilities",
                     "img": "",
@@ -297,7 +298,8 @@
                             "tags": ["NLP", "WORD CLOUD", "Projets"]
                         }
                     }
-                },                {
+                },
+				{
                     "id": 10,
                     "categoryId": "category_utilities",
                     "img": "",
@@ -323,6 +325,65 @@
                             "title": "Marker-Icon-for-leaflet",
                             "text": "Production Marker Icon for leaflet in SVG with PHP by simply changing the colors.",
                             "tags": ["WEBMAPPING", "MARKER", "Projets"]
+                        }
+                    }
+                },
+								{
+                    "id": 11,
+                    "categoryId": "category_utilities",
+                    "img": "",
+                    "faIcon": "fa-brands fa-product-hunt",
+                    "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+							{"href": "https://zedauna.github.io/API-Produits/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
+							{"href": "https://github.com/zedauna/API-Produits", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [
+
+                        ],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+							"title": "Product API",
+							"text": "Simple API for product management, available in Go, Node.js, and PHP.",
+							"tags": ["API", "Go","PHP","Node.js", "Projects"]
+                        },
+                        "fr": {
+                            "title": "API-Produits",
+                            "text": "API simple pour la gestion des produits, disponible en Go, Node.js et PHP..",
+                            "tags": ["API", "Go","PHP","Node.js", "Projets"]
+                        }
+                    }
+                },
+								{
+                    "id": 12,
+                    "categoryId": "category_utilities",
+                    "img": "",
+                    "faIcon": "fa-brands fa-python",
+                    "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+							{"href": "https://github.com/zedauna/API-FLASK-POSTGRESQL", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [
+
+                        ],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+							"title": "API-FLASK-POSTGRESQL",
+							"text": "Tool for generating database metadata and enabling easy navigation between different schemas, databases, and tables.",
+							"tags": ["API", "FLASK", "DataTables.js", "Projects"]
+                        },
+                        "fr": {
+                            "title": "API-FLASK-POSTGRESQL",
+                            "text": "Outil pour générer les métadonnées des bases de données et permettre une navigation facile entre les différents schémas, BDD et tables.",
+                            "tags": ["API", "FLASK","DataTables.js", "Projets"]
                         }
                     }
                 }
