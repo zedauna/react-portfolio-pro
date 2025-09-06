@@ -161,6 +161,7 @@
                     "faIconColors": {"bg": "#BA002E", "fill": ""},
                     "preview": {
                         "links": [
+							{"href": "https://zedauna.github.io/Admin-dashboard-Angular-Material/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
 							{"href": "https://github.com/zedauna/Admin-dashboard-Angular-Material", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
                         ],
                         "screenshots": [
