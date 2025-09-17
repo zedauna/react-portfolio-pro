@@ -214,14 +214,14 @@
                 },
                 {
                     "id": 7,
-                    "categoryId": "category_web",
+                    "categoryId": "category_apps",
                     "img": "",
-                    "faIcon": "fa-brands fa-readme",
-                    "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
+                    "faIcon": "fa-brands fa-angular",
+					"faIconColors": {"bg": "#BA002E", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://zedauna.github.io/portfolio/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
-							{"href": "https://github.com/zedauna/portfolio", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                            {"href": "https://appli-anular-pokemons.netlify.app", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
+							{"href": "https://github.com/zedauna/angular-pokemons", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
                         ],
                         "screenshots": [
 
@@ -231,14 +231,14 @@
                     },
                     "locales": {
                         "en": {
-							"title": "Portfolio",
-							"text": "My basic portfolio.",
-							"tags": ["Training", "Course", "Projects","OLD"]
+							"title": "Application of Pokémons",
+							"text": "A complete overhaul in 2025 of an initial 2021 project (Raigyo_angular-pokemons) Migrated to Angular 20, integrating signals, modern RxJS, and Angular Material.",
+							"tags": ["Angular 20", "Signals", "Projects","RxJS","Netlify"]
                         },
                         "fr": {
-                            "title": "Portfolio",
-                            "text": " Mon portFolio en version basique.",
-                            "tags": ["Formation", "Parcours", "Projets","OLD"]
+                            "title": "Pokémons Application",
+                            "text": "Une refonte complète en 2025 d’un projet initial de 2021 (de Raigyo_angular-pokemons) Migré vers Angular 20, intégration des signals, RxJS moderne, et Angular Material.",
+                            "tags": ["Angular 20", "Signaux", "Projets","RxJS","Netlify"]
                         }
                     }
                 },
